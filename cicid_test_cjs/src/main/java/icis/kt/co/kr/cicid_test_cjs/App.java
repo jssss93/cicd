@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println( "add1!" );
+        System.out.println( "ait-1.0.1 bugfix" );
     }
 }
